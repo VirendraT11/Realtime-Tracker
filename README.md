@@ -62,8 +62,8 @@ Follow these steps to set up the project locally:
 
 ## Screenshot 📸
 
-![Application Screenshot]((https://github.com/VirendraT11/Realtime-Tracker/blob/main/Screenshot%202024-12-27%20203647.png))
-![Application Screenshot])
+![Application Screenshot](https://github.com/VirendraT11/Realtime-Tracker/blob/main/Screenshot%202024-12-27%20203647.png)
+
 
 ## Contributing 🤝
 
